@@ -43,9 +43,6 @@ src/
 - Organizing React components
 - Creating responsive UI with Tailwind CSS
 
-## 📸 Preview
-
-_Add screenshots here._
 
 ## ⚙️ Installation
 
